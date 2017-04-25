@@ -1,6 +1,14 @@
 # Degree
-- degree: Associates Degree, Business Management
-  uni: Springfield College
-  year: 1984 &mdash; 1986
-  awards: Quickest to fall asleep
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: MSc in Computer Science
+  uni: Interdisciplinary Center Herzliya
+  year: 2011 &mdash; 2015
+  awards:  Cum Laude
+  summary: Final Project in the field of multi-party secure computation under the supervision of Prof. Tal Moran.
+
+- degree: BSc in Computer Engineering
+  uni: Technion - Israel Institute of Technology
+  year: 2005 &mdash; 2009
+  awards:  Cum Laude
+  summary: Final projects in the fields of computer networks and embedded systems (the latter is in collaboration with RAFAEL).
+
+

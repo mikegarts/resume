@@ -1,19 +1,36 @@
 # Jobs
-# Springfield Nuclear Power Plant
-- company: Springfield Nuclear Power Plant
-  position: Safety Inspector
-  duration: Nov, 1980 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+- company: Axonius
+  position: Head of Infrastructure
+  duration: 2017 &mdash; Present
+  summary: Designing and developing innovative IT security product from scratch
 
-# Windmill Crank Operator
-- company: Sir Putt-A-Lot's Merrie Olde Fun Centre
-  position: Safety Inspector
-  duration:  Jun, 1978 &mdash; Sept, 1979
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Iguaz.io
+  position: Senior software developer
+  duration: 2015 &mdash; 2017
+  summary: Designing and developing an innovative big data storage system with emphasis on performance, low latency and high reliability. Design and hands on development of the product since initiation and up to deployment for our customers. I was working on the main core of the system (c/python) and components that bridge our product to big-data clients such as hadoop and spark (c++/java/scala)
 
+- company: Central Collection Unit of the Intelligence Corps, IDF (8200)
+  position: Researcher
+  duration: 2014 &mdash; 2015
+  summary: Initiating and conducting research projects of various technologies (Android/IOS and more)
 
-# Front Desk Attendant
-- company: Simpson Lazer Tag
-  position: Front Desk Attendant
-  duration:   Jun, 1975  &mdash; May, 1978
-  summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
+- company: Central Collection Unit of the Intelligence Corps, IDF (8200)
+  position: Technological supervisor/CTO
+  duration: 2012 &mdash; 2014
+  summary:  Initiated and implemented proof of concept of high risk R&D innovative projects and adaptation of existing solutions in organization's projects (C/C++/Python/Lua ; Linux/Embedded/Networking). Also filled the role of department's technology consultant
+
+- company: Central Collection Unit of the Intelligence Corps, IDF (8200)
+  position: Software Developer
+  duration: 2009 &mdash; 2012
+  summary: Designed, implemented and tested various software projects with emphasis in low level operating systems and computer networking area (C/C++/asm/C#/Python ; Win32)
+
+- company: IBM Haifa R&D Labs
+  position: Software developer (student position)
+  duration: 2008 &mdash; 2009
+  summary: Software developer (Java/Python) in the Distributed Middleware group 
+
+- company: Technion Institute of Technology High speed digital systems lab
+  position: Developer and Assistant
+  duration: 2006 &mdash; 2008
+  summary: Software Developer and Assistant in Digital systems laboratory (C/C++/asm).
+
